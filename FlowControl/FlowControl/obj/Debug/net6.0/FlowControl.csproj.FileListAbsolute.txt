@@ -1,0 +1,15 @@
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.exe
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.deps.json
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.runtimeconfig.json
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\bin\Debug\net6.0\FlowControl.pdb
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.csproj.AssemblyReference.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.AssemblyInfoInputs.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.AssemblyInfo.cs
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\refint\FlowControl.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.pdb
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\FlowControl.genruntimeconfig.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 4\FlowControl\FlowControl\obj\Debug\net6.0\ref\FlowControl.dll
