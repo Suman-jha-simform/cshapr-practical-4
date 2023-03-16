@@ -2,6 +2,8 @@
 
 namespace FlowControl
 {
+
+    // enum for options to choose from
     enum Options
     {
 
@@ -74,6 +76,7 @@ namespace FlowControl
             student.Name = "Suman";
             student.Marks = new decimal[5] { 81, 97, 92, 78, 80 };
 
+            //choice from user to continue or not
             string userChoice = " ";
             
             do
